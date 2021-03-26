@@ -6,5 +6,5 @@
 
 | Объект | Содержание |
 |:---|:---|
-| [`python-programming.ipynb`](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/python-programming.ipynb) | Решение задач курса |
-| [`certificate.pdf`](https://github.com/pilyay/python-programming-course-by-bioinformatics-institute/blob/master/certificate.pdf) | Сертификат |
+| [`fundamentals-of-statistics.ipynb`](https://github.com/pilyay/fundamentals-of-statistics-course-by-bioinformatic-institute/blob/main/fundamentals-of-statistics.ipynb) | Решение задач курса |
+| [~`certificate.pdf`~]() | ~Сертификат~ |
